@@ -13,7 +13,25 @@
 [![VUE.JS](https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white)]()
+[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white)]()
+[![TYPESCRIIPT](https://img.shields.io/badge/TYPESCRIPT-%233178C6.svg?&style=for-the-badge&logo=TYPESCRIPT&logoColor=white)]()
+[![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%20SHARP-%23239120.svg?&style=for-the-badge&logo=C%20SHARP&logoColor=white)]()
+[![MICROSOFT AZURE](https://img.shields.io/badge/MICROSOFT%20AZURE-%230078D4.svg?&style=for-the-badge&logo=MICROSOFT%20AZURE&logoColor=white)]()
+[![AZURE DEVOPS](https://img.shields.io/badge/AZURE%20DEVOPS-%230078D7.svg?&style=for-the-badge&logo=AZURE%20DEVOPS&logoColor=white)]()
+[![PWA](https://img.shields.io/badge/PWA-%235A0FC8.svg?&style=for-the-badge&logo=PWA&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/GITHUB-%23181717.svg?&style=for-the-badge&logo=GITHUB&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/POWER%20APPS-%23742774.svg?&style=for-the-badge&logo=POWER%20APPS&logoColor=white)]()
+
+
+
+
+
+
+
+
+
+
 
 
 
