@@ -6,7 +6,17 @@
 
 <p align="center">
   <img src="https://github.com/cgbarrow/cgbarrow/blob/main/carbon.png" alt="Christopher Barrow Bitmoji" style="width: 70%; height: auto;">
-</p>                                          
+</p>       
+
+## Things I code with
+[![NUXT.JS](https://img.shields.io/badge/nuxt.js-%2300DC82.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white)]()
+[![VUE.JS](https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white)]()
+
+
+
                                                                   
                                                                   
                                                                   
