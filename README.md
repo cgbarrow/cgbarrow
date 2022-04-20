@@ -21,7 +21,16 @@
 [![AZURE DEVOPS](https://img.shields.io/badge/AZURE%20DEVOPS-%230078D7.svg?&style=for-the-badge&logo=AZURE%20DEVOPS&logoColor=white)]()
 [![PWA](https://img.shields.io/badge/PWA-%235A0FC8.svg?&style=for-the-badge&logo=PWA&logoColor=white)]()
 [![GITHUB](https://img.shields.io/badge/GITHUB-%23181717.svg?&style=for-the-badge&logo=GITHUB&logoColor=white)]()
-[![GITHUB](https://img.shields.io/badge/POWER%20APPS-%23742774.svg?&style=for-the-badge&logo=POWER%20APPS&logoColor=white)]()
+[![POWER APPS](https://img.shields.io/badge/POWER%20APPS-%23742774.svg?&style=for-the-badge&logo=POWER%20APPS&logoColor=white)]()
+[![POWER AUTOMATE](https://img.shields.io/badge/POWER%20AUTOMATE-%230066FF.svg?&style=for-the-badge&logo=POWER%20AUTOMATE&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%20SHARP-%23239120.svg?&style=for-the-badge&logo=C%20SHARP&logoColor=white)]()
+[![SWIFT](https://img.shields.io/badge/SWIFT-%23F05138.svg?&style=for-the-badge&logo=SWIFT&logoColor=white)]()
+[![BRAVE](https://img.shields.io/badge/BRAVE-%23FB542B.svg?&style=for-the-badge&logo=BRAVE&logoColor=white)]()
+
+
+
+
+
 
 
 
