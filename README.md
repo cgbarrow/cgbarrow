@@ -10,7 +10,7 @@
 
 # Hello!
 
-It's good to see you. I'm Christopher Barrow, old man developer with some grit and guile. Currently doing the leadership thing. Been a code monkey for quite a while now. I don't code as much as I used to but I still enjoy tinkering here annd there. 
+It's good to see you. I'm Christopher Barrow, old man developer with some grit and guile. Currently doing the leadership thing. Been a code monkey for quite a while now. I don't code as much as I used to but I still enjoy tinkering here and there. 
 
 ## All things code
 [![NUXT.JS](https://img.shields.io/badge/nuxt.js-%2300DC82.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white)]()
