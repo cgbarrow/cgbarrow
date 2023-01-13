@@ -12,6 +12,12 @@
 
 It's good to see you. I'm Christopher Barrow, old man developer with some grit and guile. Currently doing the leadership thing. Been a code monkey for quite a while now. I don't code as much as I used to but I still enjoy tinkering here and there. 
 
+## DailyDev Card
+
+<p align="center">
+  <a href="https://app.daily.dev/cgb"><img src="https://api.daily.dev/devcards/e70e9fb0270d4e0b883f5fce22e13f00.png?r=box" width="400" alt="Christopher Barrow's Dev Card"/></a>
+</p>
+
 ## All things code
 [![NUXT.JS](https://img.shields.io/badge/nuxt.js-%2300DC82.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white)]()
 [![VUE.JS](https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)]()
