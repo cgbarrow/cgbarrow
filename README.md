@@ -58,7 +58,7 @@ Passion is what allows me to think creatively regardless of my working environme
 
 ## View My Resume
 
-<img src="https://www.chrisbarrow.me/images/qr.png" data-canonical-src="https://www.chrisbarrow.me/images/qr.png" width="120" height="120"/>
+Check out my online resume. [Hosted](https://flourishing-hamster-e3cb7e.netlify.app/) with Netlify.
 
 ## Connect
 
