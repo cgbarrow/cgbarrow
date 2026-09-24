@@ -54,10 +54,6 @@ I have been told on more than one occasion in my career skill sets such as entre
 
 Passion is what allows me to think creatively regardless of my working environment. Passion enables me to embrace change (one of the very few constants in life) by choice. Passion pushes me to pursue lifelong learning to always be improving my IT, UX, and product management skills. Passion drives me to take risks, reap the rewards, learn from my failures, and lead by putting people and teams first.
 
-## View My Resume
-
-Check out my online resume. [Hosted](https://flourishing-hamster-e3cb7e.netlify.app/) with Netlify.
-
 ## Connect
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-%23181717.svg?&style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/cgbarrow)
