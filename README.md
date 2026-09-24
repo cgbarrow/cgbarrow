@@ -8,7 +8,7 @@
 
 # Hello!
 
-It's good to see you. I'm Christopher Barrow, old man developer with some grit and guile. Currently doing the leadership thing. Been a code monkey for quite a while now. I don't code as much as I used to but I still enjoy tinkering here and there. 
+It's good to see you. I'm Christopher Barrow, old man developer with some grit and guile. Currently doing the leadership thing. Been a code monkey for quite a while now. I don't code as much as I used to but I still enjoy tinkering here and there. All in on AI coding agents. Claude, Codex, self-hosted. It's made coding fun again!
 
 ## DailyDev Card
 
